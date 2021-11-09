@@ -49,7 +49,7 @@ author: lemonchann
 
 - 支持添加文章目录
 
-  
+
 
 ## 建立博客Git仓库
 
@@ -184,7 +184,7 @@ url: https://yourname.github.io
 
 ### bundler安装
 
-`gem install bundler` 安装bundler 
+`gem install bundler` 安装bundler
 
 `bundle -v 查看版本
  bundle config mirror.https://rubygems.org https://gems.ruby-china.com` 切换安装源
@@ -232,7 +232,7 @@ url: https://yourname.github.io
 
 4. `$ tasklist|findstr 312964`也能查看进程名，查到结束掉他同步骤3.
 
-   
+
 
 ## 搜索功能集成
 
@@ -301,7 +301,7 @@ url: https://yourname.github.io
 
 [viewBox](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Attribute/viewBox)
 
-> viewBox属性的值是一个包含4个参数的列表 `min-x`, `min-y`, `width` and `height`， 以空格或者逗号分隔开， 在用户空间中指定一个矩形区域映射到给定的元素,查看属性 
+> viewBox属性的值是一个包含4个参数的列表 `min-x`, `min-y`, `width` and `height`， 以空格或者逗号分隔开， 在用户空间中指定一个矩形区域映射到给定的元素,查看属性
 
 [深入简出 SVG 教程](https://zhuanlan.zhihu.com/p/36138381)
 
